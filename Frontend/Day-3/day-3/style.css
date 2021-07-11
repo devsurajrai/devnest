@@ -31,10 +31,12 @@ body{
 }
 
  fieldset{
+     
      border: .2rem solid #9688D0;
      height:95vh;
      width:65%;
      margin:auto;
+     overflow:auto;
      
 
  }
