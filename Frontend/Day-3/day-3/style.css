@@ -1,0 +1,95 @@
+body{
+    margin:0;
+    box-sizing: border-box;
+}
+
+#wrapper{
+    padding-top:px;
+    display:flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+#column-1{
+    color:#5144D0;
+     float:left;
+     height:74vh;
+     width:30vw;
+     border:hidden;
+     padding: 1rem;
+     padding-top: 0px;
+
+ }
+
+ #column-2{
+     color:#5144D0;
+     float: left;
+     border-left:3px solid #9688D0;
+     height:74vh;
+     width: 60%;
+     padding:1.5rem;
+     padding-top: 0px;
+}
+
+ fieldset{
+     border: .2rem solid #9688D0;
+     height:95vh;
+     width:65%;
+     margin:auto;
+     
+
+ }
+ legend{
+    
+     width:10rem;
+     text-align: center;
+     color:#9688D0;
+}
+
+ #name{
+     font-size: 24px;
+     line-height: 20px;
+     margin:10px 0px 10px 0px;
+ }
+#name-span{
+    font-size: 12px;
+    margin-top: 0px;
+}
+
+p{
+    font-size: 11px;
+    color: #9688D0;
+    margin-top: 5px;;
+    margin-bottom: 1.5rem;
+}
+
+h5{
+    margin-top:0px;
+    margin-bottom: .2rem;
+}
+
+ul{
+    color:#9688D0;
+    padding-left:.7rem;
+    margin-top:5px;
+    font-size: 10px;
+    margin-bottom: 1.5rem;;
+}
+h6{
+    font-size: 15px;
+    margin-top:0px;
+    margin-bottom: .2rem;
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+#exerience-place{
+    font-size: 14px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    margin-bottom: .2rem;
+}
+
+#acad-top-padding{
+    padding-top:62px;
+}
+
