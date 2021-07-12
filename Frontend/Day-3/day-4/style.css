@@ -80,7 +80,7 @@ span{
     left:22%;
     top:64%;
     border-top:none;
-    border-bottom: 3px solid;
+    border-bottom: 3px solid;———ZZZ——————
 }
 
 #hand-three{
@@ -89,8 +89,8 @@ span{
     /* background-color: green; */
     border-bottom: 3px solid ;
     border-top:none;
-    left:15%;
-    top:61%
+    left:15.8%;
+    top:61.3%
 }
 
 #hands{
@@ -98,7 +98,7 @@ span{
     /* background-color: red; */
     height:380px;
     width:361px;
-    overflow: auto;
+    overflow: auto;____+++-__+-_____++
 }
 
 
