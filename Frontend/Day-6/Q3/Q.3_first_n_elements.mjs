@@ -1,7 +1,7 @@
 import { firstN } from "./modules/func-modules.mjs"
 
 var arr=[7,9,0,-2]
-var num= -3;
+var num= 6;
 firstN(arr,num)
 
 /* Test Cases

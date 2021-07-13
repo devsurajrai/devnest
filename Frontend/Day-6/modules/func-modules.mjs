@@ -75,25 +75,26 @@ export function arrToStr1(strArr) {
              str+=strArr[i]+ '"';
          }
     }
-    console.log(str)
+    
     console.log("")
+    console.log(str)
 }
 
 // Array elements to string separated by '+' sign
-
+var str1='"'
 export function arrToStr2(strArr){
         for(var i=0;i<strArr.length;i++)
         {
     
          if(i<strArr.length-1){
-            str=str+strArr[i] + ',';
+            str1=str1+strArr[i] + '+';
          }
          
          else{
-             str+=strArr[i]+ '"';
+             str1+=strArr[i]+ '"';
          }
     }
-    console.log(str)
+    console.log(str1)
     console.log("")
 }
 
