@@ -1,5 +1,3 @@
-
-
 // Selecting all the span elements in an array "spanArr" -> Input
 var spanArr=document.querySelectorAll("span")
 
