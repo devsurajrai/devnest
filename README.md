@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">devnest- THAs 😎</h1>
+<h1 style="text-align:center;">devsnest- THAs 😎</h1>
 
 This repo consist of all the THA (Take Home Assignment) of the  DSA and Fronend classes .
 
@@ -35,7 +35,7 @@ This repo consist of all the THA (Take Home Assignment) of the  DSA and Fronend 
 
 
 8. Day 9 THA [View Code](https://github.com/devsurajrai/devnest/tree/main/Frontend/Day-9) | [View Live](https://seat-booking.netlify.app/) | [Class](https://www.youtube.com/watch?v=j9gacsYnjWE&list=PLqcJACtjWm_Xx_l75dfg4MGAhIrpCnxFV&index=12)
-9. Day 10 THA [View Code](https://github.com/devsurajrai/devnest/tree/main/Frontend/Day-9) | [View Live](https://seat-booking.netlify.app/) | [Class](https://www.youtube.com/watch?v=j9gacsYnjWE&list=PLqcJACtjWm_Xx_l75dfg4MGAhIrpCnxFV&index=12)
+9. Day 10 THA [View Code](https://github.com/devsurajrai/devnest/tree/main/Frontend/Day-9) | [View Live](https://seat-booking.netlify.app/) | [Class](https://www.youtube.com/watch?v=zYOVF6B8nUc&list=PLqcJACtjWm_Xx_l75dfg4MGAhIrpCnxFV&index=12&t=218s)
    
 
    
