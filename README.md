@@ -6,9 +6,9 @@ This repo consist of all the THA (Take Home Assignment) of the  DSA and Fronend 
 
 
 1. Day 1 THA [View Code](https://github.com/devsurajrai/devnest/blob/main/Frontend/Day_1/index.html) | [View Live](https://day-1.netlify.app) | [Class](https://www.youtube.com/watch?v=KnZa_Ri_B18&list=PLqcJACtjWm_Xx_l75dfg4MGAhIrpCnxFV)
-2. Day 2 THA [View Code](https://github.com/devsurajrai/devnest/blob/main/Frontend/Day-2/day_2/index.html) | [View Live](https://css-basic-styling.netlify.app) | [Class](https://www.youtube.com/watch?v=porf5cZwExI&list=PLqcJACtjWm_Xx_l75dfg4MGAhIrpCnxFV&index=2)
-3. Day 3 THA [View Code](https://github.com/devsurajrai/devnest/blob/main/Frontend/Day-3/day_3/index.html) | [View Live](https://remume-template.netlify.app) | [Class](https://www.youtube.com/watch?v=EmXf7YcFmhs&list=PLqcJACtjWm_Xx_l75dfg4MGAhIrpCnxFV&index=4)
-4. Day 4 THA [View Code](https://github.com/devsurajrai/devnest/blob/main/Frontend/Day-3/day_4/index.html) | [View Live](https://clock-day-4.netlify.app) | [Class](https://www.youtube.com/watch?v=Tl2yie4qDLQ&list=PLqcJACtjWm_Xx_l75dfg4MGAhIrpCnxFV&index=5)
+2. Day 2 THA [View Code](https://github.com/devsurajrai/devnest/blob/main/Frontend/Day_2/day-2/index.html) | [View Live](https://css-basic-styling.netlify.app) | [Class](https://www.youtube.com/watch?v=porf5cZwExI&list=PLqcJACtjWm_Xx_l75dfg4MGAhIrpCnxFV&index=2)
+3. Day 3 THA [View Code](https://github.com/devsurajrai/devnest/blob/main/Frontend/Day_3_4/day-3/index.html) | [View Live](https://remume-template.netlify.app) | [Class](https://www.youtube.com/watch?v=EmXf7YcFmhs&list=PLqcJACtjWm_Xx_l75dfg4MGAhIrpCnxFV&index=4)
+4. Day 4 THA [View Code](https://github.com/devsurajrai/devnest/blob/main/Frontend/Day_3_4/day-4/index.html) | [View Live](https://clock-day-4.netlify.app) | [Class](https://www.youtube.com/watch?v=Tl2yie4qDLQ&list=PLqcJACtjWm_Xx_l75dfg4MGAhIrpCnxFV&index=5)
 
 5. Day 5 THA [N/A]() | [Class](https://www.youtube.com/watch?v=Yxj54m8dGNg&list=PLqcJACtjWm_Xx_l75dfg4MGAhIrpCnxFV&index=6)
 6. <p style="line-height:10px">Day 6 THA 👇 </p>
