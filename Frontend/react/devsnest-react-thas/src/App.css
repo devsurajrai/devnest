@@ -1,3 +1,55 @@
 *{
-  margin:0;
+  margin:0px;
+  box-sizing: border-box;
 }
+
+.light{
+  display: inline-block;
+  width:35px;
+  height:35px;
+  background-color:white;
+  
+  
+}
+
+.dark{
+  display: inline-block;
+  width:35px;
+  height:35px;
+  background-color: black;
+  
+  
+}
+
+.main-container{
+  display: flex;
+  flex-direction: row;
+  justify-content:center ;
+  align-items: center;
+  padding-top:200px;
+}
+.board{
+  display:flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  border: 20px solid black;
+  width:320px;
+  height:320px;
+  
+}
+  
+.board>span{
+  margin:0px;
+  padding: 0px;
+  display:flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+.main-container>.board>.box-container{
+  display:flex;
+  flex-direction: column;
+}
+  
+  
+  
+  
