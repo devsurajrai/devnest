@@ -7,8 +7,8 @@ function DaySixteenA(){
       <div className="image-a">
         <img src={image} alt="" />
       </div>
-     
-    
-  )
+     )
 }
+     
 export default DaySixteenA
+    

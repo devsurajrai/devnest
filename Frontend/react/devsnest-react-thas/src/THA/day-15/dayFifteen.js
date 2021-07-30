@@ -1,4 +1,4 @@
-import './daySixteen.css'
+import './dayFifteen.css'
 
 function DayFifteen(){
   return(
