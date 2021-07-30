@@ -42,8 +42,8 @@ This repo consist of all the THA (Take Home Assignment) of the  DSA and Fronend 
 12. Day 13 THA [N/A]()
 13. Day 14 THA [N/A]()
     
-####React
-#####React Latest THA [View Code]([https://github.com/devsurajrai/devsnest/tree/main/Frontend/react/devsnest-react-thas/src/THA/day-15) 
+#### React
+##### React Latest THA [View Code]([https://github.com/devsurajrai/devsnest/tree/main/Frontend/react/devsnest-react-thas/src/THA/day-15) 
 
 14. Day 15 THA [View Code](https://github.com/devsurajrai/devsnest/tree/main/Frontend/react/devsnest-react-thas/src/THA/day-15) | [Screenshot](https://github.com/devsurajrai/devsnest/blob/main/Frontend/react/devsnest-react-thas/src/output_img/Day_15.png) 
 15. Day 16 THA [View Code](https://github.com/devsurajrai/devsnest/tree/main/Frontend/react/devsnest-react-thas/src/THA/day-16) | [Screenshots_1](https://github.com/devsurajrai/devsnest/blob/main/Frontend/react/devsnest-react-thas/src/output_img/Day_16_A.png) | [Screenshots_2](https://github.com/devsurajrai/devsnest/blob/main/Frontend/react/devsnest-react-thas/src/output_img/Day_16_B.png)
