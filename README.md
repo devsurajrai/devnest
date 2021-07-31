@@ -1,6 +1,6 @@
 <h1 style="text-align:center;">devsnest- THAs 😎</h1>
 
-This repo consist of all the THA (Take Home Assignment) of the  DSA and Fronend classes .
+This repo consist of all the THA (Take Home Assignment) for the  DSA and Fronend classes .
 
 ## Table of content: (Frontend)
 #### HTML,CSS & Javascript
