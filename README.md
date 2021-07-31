@@ -11,7 +11,7 @@ This repo consist of all the THA (Take Home Assignment) for the  DSA and Fronend
 3. Day 3 THA [View Code](https://github.com/devsurajrai/devnest/blob/main/Frontend/Day_3_4/day-3/index.html) | [View Live](https://remume-template.netlify.app) 
 4. Day 4 THA [View Code](https://github.com/devsurajrai/devnest/blob/main/Frontend/Day_3_4/day-4/index.html) | [View Live](https://clock-day-4.netlify.app) 
 
-5. Day 5 THA [N/A]() | [Class](https://www.youtube.com/watch?v=Yxj54m8dGNg&list=PLqcJACtjWm_Xx_l75dfg4MGAhIrpCnxFV&index=6)
+5. Day 5 THA [N/A]() 
 6. <p style="line-height:10px">Day 6 THA 👇 </p>
             
   <ul style="list-style-type:none;">
@@ -34,13 +34,13 @@ This repo consist of all the THA (Take Home Assignment) for the  DSA and Fronend
   <li>Question 6<a href="https://github.com/devsurajrai/devsnest/tree/main/Frontend/Day_7/day-7/Q-6" > View Code</a></li> 
 </ul>
 
-
-8. Day 9 THA [View Code](https://github.com/devsurajrai/devnest/tree/main/Frontend/Day_9) | [View Live](https://seat-booking.netlify.app/)   
-9. Day 10 THA [View Code](https://github.com/devsurajrai/devnest/tree/main/Frontend/Day_10) | [View Live](https://dbz-flip-card.netlify.app) 
-10. Day 11 THA [N/A]()
-11. Day 12 THA [N/A]()
-12. Day 13 THA [N/A]()
-13. Day 14 THA [N/A]()
+8. Day 8 THA [N/A]() 
+9. Day 9 THA [View Code](https://github.com/devsurajrai/devnest/tree/main/Frontend/Day_9) | [View Live](https://seat-booking.netlify.app/)   
+10. Day 10 THA [View Code](https://github.com/devsurajrai/devnest/tree/main/Frontend/Day_10) | [View Live](https://dbz-flip-card.netlify.app) 
+11. Day 11 THA [N/A]()
+12. Day 12 THA [N/A]()
+13. Day 13 THA [N/A]()
+14. Day 14 THA [N/A]()
     
 #### React
 ##### React Latest THA [View Live](https://latest-react-tha.netlify.app) 
